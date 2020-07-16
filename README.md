@@ -1,2 +1,1 @@
-# Certificado Game Dev
- Certificado Game Dev
+# certificado da Imersão Gamedev JavaScript
